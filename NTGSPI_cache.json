@@ -1,0 +1,303 @@
+{
+    "shedule": [
+        {
+            "facultet": "СГФ",
+            "shedule": [
+                {
+                    "group": "Нт-106о ИО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-106%D0%BE%20%D0%98%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-106%D0%BE%20%D0%98%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-101о ИДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-101%D0%BE%20%D0%98%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-101о ПКМ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-101%D0%BE%20%D0%9F%D0%9A%D0%9C.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-101%D0%BE%20%D0%9F%D0%9A%D0%9C%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-205о ИО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-205%D0%BE%20%D0%98%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-202о ПЭ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-202%D0%BE%20%D0%9F%D0%AD.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-205о СР",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-205%D0%BE%20%D0%A1%D0%A0.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-304о ИО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-304%D0%BE%20%D0%98%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-301о ПЭ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-301%D0%BE%20%D0%9F%D0%AD.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-304о СР",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-304%D0%BE%20%D0%A1%D0%A0.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-403о ИО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-411о СР",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-411%D0%BE%20%D0%A1%D0%A0.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-411%D0%BE%20%D0%A1%D0%A0%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-502о ИО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-502%D0%BE%20%D0%98%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-502%D0%BE%20%D0%98%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                }
+            ]
+        },
+        {
+            "facultet": "ФППО",
+            "shedule": [
+                {
+                    "group": "Нт-107о НДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-107%D0%BE%20%D0%9D%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-107%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-106о СПП",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-106%D0%BE%20%D0%A1%D0%9F%D0%9F.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-106%D0%BE%20%D0%A1%D0%9F%D0%9F%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-206о НДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-206%D0%BE%20%D0%9D%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-205о СПП",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-205%D0%BE%20%D0%A1%D0%9F%D0%9F.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-305о НДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-305%D0%BE%20%D0%9D%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-302о ППП",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-302%D0%BE%20%D0%9F%D0%9F%D0%9F.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-404о НДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-404%D0%BE%20%D0%9D%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-401о ППП",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-401%D0%BE%20%D0%9F%D0%9F%D0%9F.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-503о НДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-503%D0%BE%20%D0%9D%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-503%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                }
+            ]
+        },
+        {
+            "facultet": "ФФМК",
+            "shedule": [
+                {
+                    "group": "Нт-103о АН",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%90%D0%9D.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-103о АФ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%90%D0%A4.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-103о НА",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%9D%D0%90.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-105о РЛТ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-105%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-101о ФДО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-101%D0%BE%20%D0%A4%D0%94%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-202о АН",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%90%D0%9D.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-202о АФ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%90%D0%A4.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-202о НА",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%9D%D0%90.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-204о РЛТ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-204%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-301о АН",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%9D.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-301о АФ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%A4.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-301о НА",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%9D%D0%90.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-301о АНО",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%9D%D0%9E.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-303о РЛТ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-303%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-403о ИА",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%90.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-403о ИА экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%90%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-406о ИЯН",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-406%D0%BE%20%D0%98%D0%AF%D0%9D.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-406о ИЯН экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-406%D0%BE%20%D0%98%D0%AF%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-402о РЛТ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-402%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-501о РЛТ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-501%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-501о РЛТ экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-501%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-317Со ИА",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-317%D0%A1%D0%BE%20%D0%98%D0%90.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-317Со ИА экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-317%D0%A1%D0%BE%20%D0%98%D0%90%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-316Со ИЯН",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-316%D0%A1%D0%BE%20%D0%98%D0%AF%D0%9D.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-316Со ИЯН экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-316%D0%A1%D0%BE%20%D0%98%D0%AF%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-311Со АЯ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-311%D0%A1%D0%BE%20%D0%90%D0%AF.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-311Со АЯ экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-311%D0%A1%D0%BE%20%D0%90%D0%AF%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                }
+            ]
+        },
+        {
+            "facultet": "ФЕМИ",
+            "shedule": [
+                {
+                    "group": "Нт-101о ИФ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-101%D0%BE%20%D0%98%D0%A4.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-104о ПИУ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-104%D0%BE%20%D0%9F%D0%98%D0%A3.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-105о ПИУ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-105%D0%BE%20%D0%9F%D0%98%D0%A3.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-405о ПИЭ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-405%D0%BE%20%D0%9F%D0%98%D0%AD.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-211Со Экл",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-211%D0%A1%D0%BE%20%D0%AD%D0%BA%D0%BB.pdf%3F1649150890"
+                },
+                {
+                    "group": "н404 ИЭ-о3",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%BD404%20%D0%98%D0%AD-%D0%BE3.pdf%3F1649150890"
+                },
+                {
+                    "group": "н404 ИЭ-о3 конс.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%BD404%20%D0%98%D0%AD-%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf%3F1649150890"
+                },
+                {
+                    "group": "н404 ИЭ-о3 экз.",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/femi/%D0%BD404%20%D0%98%D0%AD-%D0%BE3%20%D1%8D%D0%BA%D0%B7..pdf%3F1649150890"
+                }
+            ]
+        },
+        {
+            "facultet": "ФХО",
+            "shedule": [
+                {
+                    "group": "Нт-105о ИИД",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-105%D0%BE%20%D0%98%D0%98%D0%94.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-101о ИИТ",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-101%D0%BE%20%D0%98%D0%98%D0%A2.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-204о ИИД",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-204%D0%BE%20%D0%98%D0%98%D0%94.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-201о ММХК",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-201%D0%BE%20%D0%9C%D0%9C%D0%A5%D0%9A.pdf%3F1649150890"
+                },
+                {
+                    "group": "Нт-303о ИИД",
+                    "link": "https%3A//www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-303%D0%BE%20%D0%98%D0%98%D0%94.pdf%3F1649150890"
+                },
+                {
+                    "group": 
