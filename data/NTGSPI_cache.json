@@ -1,0 +1,1153 @@
+{
+    "shedule": [
+        {
+            "facultet": "СГФ",
+            "shedule": [
+                {
+                    "group": "Нт-106о ИО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-106%D0%BE%20%D0%98%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ИДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-101%D0%BE%20%D0%98%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ПКМ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-101%D0%BE%20%D0%9F%D0%9A%D0%9C.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-205о ИО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-205%D0%BE%20%D0%98%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о ПЭ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-202%D0%BE%20%D0%9F%D0%AD.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-205о СР",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-205%D0%BE%20%D0%A1%D0%A0.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-304о ИО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-304%D0%BE%20%D0%98%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о ПЭ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-301%D0%BE%20%D0%9F%D0%AD.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-304о СР",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-304%D0%BE%20%D0%A1%D0%A0.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-403о ИО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-411о СР",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-411%D0%BE%20%D0%A1%D0%A0.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-411о СР (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-411%D0%BE%20%D0%A1%D0%A0%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-411о СР ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-411%D0%BE%20%D0%A1%D0%A0%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-411о СР экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-411%D0%BE%20%D0%A1%D0%A0%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ИО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-502%D0%BE%20%D0%98%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ИО (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-502%D0%BE%20%D0%98%D0%9E%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ИО ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-502%D0%BE%20%D0%98%D0%9E%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-503о ИО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/sgf/%D0%9D%D1%82-503%D0%BE%20%D0%98%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                }
+            ]
+        },
+        {
+            "facultet": "ФППО",
+            "shedule": [
+                {
+                    "group": "Нт-107о НДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-107%D0%BE%20%D0%9D%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-107о НДО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-107%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-106о СПП",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-106%D0%BE%20%D0%A1%D0%9F%D0%9F.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-106о СПП экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-106%D0%BE%20%D0%A1%D0%9F%D0%9F%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-206о НДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-206%D0%BE%20%D0%9D%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-206о НДО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-206%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-205о СПП",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-205%D0%BE%20%D0%A1%D0%9F%D0%9F.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-205о СПП экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-205%D0%BE%20%D0%A1%D0%9F%D0%9F%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-305о НДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-305%D0%BE%20%D0%9D%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-305о НДО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-305%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-302о ППП",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-302%D0%BE%20%D0%9F%D0%9F%D0%9F.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-302о ППП экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-302%D0%BE%20%D0%9F%D0%9F%D0%9F%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-404о НДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-404%D0%BE%20%D0%9D%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-404о НДО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-404%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-401о ППП",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-401%D0%BE%20%D0%9F%D0%9F%D0%9F.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-401о ППП экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-401%D0%BE%20%D0%9F%D0%9F%D0%9F%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-401о ППП (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-401%D0%BE%20%D0%9F%D0%9F%D0%9F%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-401о ППП ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-401%D0%BE%20%D0%9F%D0%9F%D0%9F%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-503о НДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-503%D0%BE%20%D0%9D%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-503о НДО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-503%D0%BE%20%D0%9D%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-503о НДО (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-503%D0%BE%20%D0%9D%D0%94%D0%9E%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-503о НДО ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fppo/%D0%9D%D1%82-503%D0%BE%20%D0%9D%D0%94%D0%9E%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                }
+            ]
+        },
+        {
+            "facultet": "ФФМК",
+            "shedule": [
+                {
+                    "group": "Нт-103о АН",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%90%D0%9D.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-103о АН экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%90%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-103о АФ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%90%D0%A4.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-103о АФ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%90%D0%A4%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-103о НА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%9D%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-103о НА экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-103%D0%BE%20%D0%9D%D0%90%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-105о РЛТ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-105%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-105о РЛТ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-105%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ФДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-101%D0%BE%20%D0%A4%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ФДО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-101%D0%BE%20%D0%A4%D0%94%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о АН",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%90%D0%9D.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о АН экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%90%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о АФ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%90%D0%A4.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о АФ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%90%D0%A4%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о НА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%9D%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о НА экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-202%D0%BE%20%D0%9D%D0%90%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-204о РЛТ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-204%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-204о РЛТ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-204%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о АН",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%9D.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о АН экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о АФ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%A4.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о АФ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%A4%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о НА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%9D%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о НА экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%9D%D0%90%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о АНО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%9D%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о АНО экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-301%D0%BE%20%D0%90%D0%9D%D0%9E%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-303о РЛТ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-303%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-303о РЛТ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-303%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-403о ИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-403о ИА экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%90%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-403о ИА (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%90%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-403о ИА ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-403%D0%BE%20%D0%98%D0%90%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-406о ИЯН",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-406%D0%BE%20%D0%98%D0%AF%D0%9D.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-406о ИЯН экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-406%D0%BE%20%D0%98%D0%AF%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-406о ИЯН (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-406%D0%BE%20%D0%98%D0%AF%D0%9D%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-406о ИЯН ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-406%D0%BE%20%D0%98%D0%AF%D0%9D%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-402о РЛТ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-402%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-402о РЛТ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-402%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о РЛТ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-501%D0%BE%20%D0%A0%D0%9B%D0%A2.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о РЛТ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-501%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501 РЛТ (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-501%20%D0%A0%D0%9B%D0%A2%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о РЛТ ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-501%D0%BE%20%D0%A0%D0%9B%D0%A2%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-317Со ИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-317%D0%A1%D0%BE%20%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-317Со ИА экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-317%D0%A1%D0%BE%20%D0%98%D0%90%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-317Со ИА ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-317%D0%A1%D0%BE%20%D0%98%D0%90%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-316Со ИЯН",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-316%D0%A1%D0%BE%20%D0%98%D0%AF%D0%9D.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-316Со ИЯН экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-316%D0%A1%D0%BE%20%D0%98%D0%AF%D0%9D%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-316Со ИЯН ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-316%D0%A1%D0%BE%20%D0%98%D0%AF%D0%9D%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-311Со АЯ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-311%D0%A1%D0%BE%20%D0%90%D0%AF.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-311Со АЯ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-311%D0%A1%D0%BE%20%D0%90%D0%AF%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-311Со АЯ ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/ffmk/%D0%9D%D1%82-311%D0%A1%D0%BE%20%D0%90%D0%AF%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                }
+            ]
+        },
+        {
+            "facultet": "ФЕМИ",
+            "shedule": [
+                {
+                    "group": "Нт-101о БХ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-101%D0%BE%20%D0%91%D0%A5.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ЕДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-101%D0%BE%20%D0%95%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-107о МИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-107%D0%BE%20%D0%9C%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ИФ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-101%D0%BE%20%D0%98%D0%A4.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-104о ПИУ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-104%D0%BE%20%D0%9F%D0%98%D0%A3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-105о ПИУ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-105%D0%BE%20%D0%9F%D0%98%D0%A3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-209о БХ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-209%D0%BE%20%D0%91%D0%A5.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-206о МИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-206%D0%BE%20%D0%9C%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-206о ПИУ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-206%D0%BE%20%D0%9F%D0%98%D0%A3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-203о ФИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-203%D0%BE%20%D0%A4%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-203о ПИУ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-203%D0%BE%20%D0%9F%D0%98%D0%A3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-308о БХ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-308%D0%BE%20%D0%91%D0%A5.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-305о МИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-305%D0%BE%20%D0%9C%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о ПИУ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-301%D0%BE%20%D0%9F%D0%98%D0%A3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о ПИУ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-301%D0%BE%20%D0%9F%D0%98%D0%A3%20%D1%8D%D0%BA%D0%B7..pdf"
+                },
+                {
+                    "group": "Нт-302о ПИУ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-302%D0%BE%20%D0%9F%D0%98%D0%A3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-302о ПИУ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-302%D0%BE%20%D0%9F%D0%98%D0%A3%20%D1%8D%D0%BA%D0%B7..pdf"
+                },
+                {
+                    "group": "Нт-407о БХ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-407%D0%BE%20%D0%91%D0%A5.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-407о БХ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-407%D0%BE%20%D0%91%D0%A5%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-404о МИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-404%D0%BE%20%D0%9C%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-405о ПИЭ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-405%D0%BE%20%D0%9F%D0%98%D0%AD.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-405о ПИЭ (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-405%D0%BE%20%D0%9F%D0%98%D0%AD%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-405о ПИЭ ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-405%D0%BE%20%D0%9F%D0%98%D0%AD%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-405о ПИЭ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-405%D0%BE%20%D0%9F%D0%98%D0%AD%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-506о БХ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-506%D0%BE%20%D0%91%D0%A5.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-506о БХ (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-506%D0%BE%20%D0%91%D0%A5%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-506о БХ ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-506%D0%BE%20%D0%91%D0%A5%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-506о БХ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-506%D0%BE%20%D0%91%D0%A5%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ФИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-502%D0%BE%20%D0%A4%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ФИ (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-502%D0%BE%20%D0%A4%D0%98%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ФИ ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-502%D0%BE%20%D0%A4%D0%98%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-502о ФИ экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-502%D0%BE%20%D0%A4%D0%98%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-211Со Экл",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-211%D0%A1%D0%BE%20%D0%AD%D0%BA%D0%BB.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-201о мУИОС",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-201%D0%BE%20%D0%BC%D0%A3%D0%98%D0%9E%D0%A1.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-201о мУИОС ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-201%D0%BE%20%D0%BC%D0%A3%D0%98%D0%9E%D0%A1%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-201о мУИОС экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%9D%D1%82-201%D0%BE%20%D0%BC%D0%A3%D0%98%D0%9E%D0%A1%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "н404 ИЭ-о3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%BD404%20%D0%98%D0%AD-%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н404 ИЭ-о3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%BD404%20%D0%98%D0%AD-%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н404 ИЭ-о3 экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/femi/%D0%BD404%20%D0%98%D0%AD-%D0%BE3%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                }
+            ]
+        },
+        {
+            "facultet": "ФХО",
+            "shedule": [
+                {
+                    "group": "Нт-105о ИИД",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-105%D0%BE%20%D0%98%D0%98%D0%94.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ИИТ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-101%D0%BE%20%D0%98%D0%98%D0%A2.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-204о ИИД",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-204%D0%BE%20%D0%98%D0%98%D0%94.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-201о ММХК",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-201%D0%BE%20%D0%9C%D0%9C%D0%A5%D0%9A.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-303о ИИД",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-303%D0%BE%20%D0%98%D0%98%D0%94.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-303о МИТИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-303%D0%BE%20%D0%9C%D0%98%D0%A2%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-402о ИИД",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-402%D0%BE%20%D0%98%D0%98%D0%94.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-402о МИТИ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-402%D0%BE%20%D0%9C%D0%98%D0%A2%D0%98.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о ИИД",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-501%D0%BE%20%D0%98%D0%98%D0%94.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о ИИД экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-501%D0%BE%20%D0%98%D0%98%D0%94%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о ИИД (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-501%D0%BE%20%D0%98%D0%98%D0%94%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о ИИД ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fho/%D0%9D%D1%82-501%D0%BE%20%D0%98%D0%98%D0%94%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                }
+            ]
+        },
+        {
+            "facultet": "ФСБЖ",
+            "shedule": [
+                {
+                    "group": "Нт-101о БДО",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-101%D0%BE%20%D0%91%D0%94%D0%9E.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-101о ГЭ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-101%D0%BE%20%D0%93%D0%AD.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-103о ФКА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-103%D0%BE%20%D0%A4%D0%9A%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о БЖГ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-202%D0%BE%20%D0%91%D0%96%D0%93.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-202о ФКА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-202%D0%BE%20%D0%A4%D0%9A%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "н208 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD208%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о БЖГ",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-301%D0%BE%20%D0%91%D0%96%D0%93.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-301о ФКА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-301%D0%BE%20%D0%A4%D0%9A%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-402о БФК",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-402%D0%BE%20%D0%91%D0%A4%D0%9A.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о БФК",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-501%D0%BE%20%D0%91%D0%A4%D0%9A.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о БФК (конс)",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-501%D0%BE%20%D0%91%D0%A4%D0%9A%20%28%D0%BA%D0%BE%D0%BD%D1%81%29.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о БФК ГИА",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-501%D0%BE%20%D0%91%D0%A4%D0%9A%20%D0%93%D0%98%D0%90.pdf?1653467961"
+                },
+                {
+                    "group": "Нт-501о БФК экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%9D%D1%82-501%D0%BE%20%D0%91%D0%A4%D0%9A%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                },
+                {
+                    "group": "н101 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD101%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н101 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD101%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н102 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD102%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н102 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD102%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н208 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD208%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н208 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD208%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н209 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD209%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н209 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD209%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н301 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD301%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н301 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD301%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н307 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD307%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н307 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD307%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н405 ФК-По3",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD405%20%D0%A4%D0%9A-%D0%9F%D0%BE3.pdf?1653467961"
+                },
+                {
+                    "group": "н405 ФК-По3 конс.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD405%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D0%BA%D0%BE%D0%BD%D1%81..pdf?1653467961"
+                },
+                {
+                    "group": "н405 ФК-По3 экз.",
+                    "link": "https://www.ntspi.ru/upload/raspisanie/2021/fsbzh/%D0%BD405%20%D0%A4%D0%9A-%D0%9F%D0%BE3%20%D1%8D%D0%BA%D0%B7..pdf?1653467961"
+                }
+            ]
+        }
+    ],
+    "numbers": [
+        {
+            "title": "Органы управления образовательной организации",
+            "subs": [
+                {
+                    "name": "Дирекция",
+                    "head": "Райхерт Татьяна Николаевна",
+                    "phone": "8 (3435) 25-36-44",
+                    "mail": "office@ntspi.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/rector/"
+                },
+                {
+                    "name": "Ученый совет",
+                    "head": "Устинова Светлана Александровна",
+                    "phone": "8 (3435) 25-55-33",
+                    "mail": "office@ntspi.ru",
+                    "site": "https://ntspi.ru/officer/soviet/polojenie/"
+                }
+            ]
+        },
+        {
+            "title": "Советы обучающихся",
+            "subs": [
+                {
+                    "name": "Объединенный совет обучающихся",
+                    "head": "Хисамова Ирина Игоревна",
+                    "phone": "(3435) 25-64-44,",
+                    "mail": "-",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/extracurricular_activities/student_council/"
+                }
+            ]
+        },
+        {
+            "title": "Факультеты/Институты",
+            "subs": [
+                {
+                    "name": "ФАКУЛЬТЕТ ПСИХОЛОГО-ПЕДАГОГИЧЕСКОГО ОБРАЗОВАНИЯ",
+                    "head": "Ломаева Марина Валентиновна",
+                    "phone": "(3435) 25-55-44, 8-965-505-79-63",
+                    "mail": "ippo5@mail.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/institute_of_psychology_and_teacher_education/"
+                },
+                {
+                    "name": "ФАКУЛЬТЕТ ЕСТЕСТВОЗНАНИЯ, МАТЕМАТИКИ И ИНФОРМАТИКИ",
+                    "head": "Жуйкова Татьяна Валерьевна",
+                    "phone": "(3435) 25-48-11, 8-965-505-79-27",
+                    "mail": "hbfnt@rambler.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/iemi/"
+                },
+                {
+                    "name": "СОЦИАЛЬНО-ГУМАНИТАРНЫЙ ФАКУЛЬТЕТ",
+                    "head": "Даренская Ирина Викторовна",
+                    "phone": "(3435) 25-75-22, 8-965-505-79-45",
+                    "mail": "dekanat.sgf@bk.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/socio_humanitarian_institute/"
+                },
+                {
+                    "name": "ФАКУЛЬТЕТ ХУДОЖЕСТВЕННОГО ОБРАЗОВАНИЯ",
+                    "head": "Кузнецова Наталья Сергеевна",
+                    "phone": "8 (3435) 25-01-00",
+                    "mail": "hgf1959@mail.ru",
+                    "site": "https://www.ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/iho/"
+                },
+                {
+                    "name": "ФАКУЛЬТЕТ СПОРТА И БЕЗОПАСНОСТИ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+                    "head": "Неймышев Алексей Викторович",
+                    "phone": "(3435) 25-62-44, +7 965 504 90 98",
+                    "mail": "fsbz-nt@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/faculty_of_sports_and_life_safety/"
+                },
+                {
+                    "name": "ФАКУЛЬТЕТ ФИЛОЛОГИИ И МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ",
+                    "head": "Родин Олег Федорович",
+                    "phone": "(3435) 25-57-22, 8-961-776-98-75",
+                    "mail": "dekanatffmk@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/institute_of_philology_and_mass_communications/"
+                }
+            ]
+        },
+        {
+            "title": "Кафедры",
+            "subs": [
+                {
+                    "name": "Кафедра гуманитарных и социально-экономических наук",
+                    "head": "Мочалова Надежда Юрьевна",
+                    "phone": "25-75-22",
+                    "mail": "dekanat.sgf@bk.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/socio_humanitarian_institute/"
+                },
+                {
+                    "name": "Кафедра социальной работы, управления и права",
+                    "head": "Калашникова Ольга Владиславовна",
+                    "phone": "25-75-22",
+                    "mail": "dekanat.sgf@bk.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/socio_humanitarian_institute/"
+                },
+                {
+                    "name": "Кафедра иностранных языков и русской филологии",
+                    "head": "Дондик Людмила Юрьевна",
+                    "phone": "(3435) 25-57-22",
+                    "mail": "dekanatffmk@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/institute_of_philology_and_mass_communications/"
+                },
+                {
+                    "name": "Кафедра психологии и педагогики дошкольного и начального образования",
+                    "head": "Малеева Елена Валентиновна",
+                    "phone": "(3435) 25-55-44, 8 (965) 505-79-63",
+                    "mail": "ippo5@mail.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/institute_of_psychology_and_teacher_education/"
+                },
+                {
+                    "name": "Кафедра педагогики и психологии",
+                    "head": "Прохорова Ирина Константиновна",
+                    "phone": "8-912-688-58-03",
+                    "mail": "kafedra-pp-ntgspi@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/institute_of_psychology_and_teacher_education/"
+                },
+                {
+                    "name": "Кафедра информационных технологий",
+                    "head": "Мащенко Майя Владимировна",
+                    "phone": "+7 (965) 516-84-60",
+                    "mail": "kafinfteh@rambler.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/iemi/"
+                },
+                {
+                    "name": "Кафедра естественных наук и физико-математического образования",
+                    "head": "Полявина Ольга Валентиновна",
+                    "phone": "25-48-11",
+                    "mail": "polyavnt@rambler.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/iemi/"
+                },
+                {
+                    "name": "Кафедра художественного образования",
+                    "head": "Кузьмина Ирина Петровна",
+                    "phone": "8 (3435) 25-01-00",
+                    "mail": "fakultet.nthgf@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/iho/"
+                },
+                {
+                    "name": "Кафедра безопасности жизнедеятельности и физической культуры",
+                    "head": "Дейкова Татьяна Николаевна",
+                    "phone": "(3435) 25-62-44",
+                    "mail": "fsbz-nt@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/institutes_departments/faculty_of_sports_and_life_safety/"
+                }
+            ]
+        },
+        {
+            "title": "Иные структурные подразделения",
+            "subs": [
+                {
+                    "name": "Управление учебно-методической работы",
+                    "head": "Дикова Виктория Вячеславовна",
+                    "phone": "(3435) 25-53-01",
+                    "mail": "-",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/upravleniya/uumr/"
+                },
+                {
+                    "name": "Финансовое управление",
+                    "head": "Сальникова Ирина Борисовна",
+                    "phone": "т. (3435) 25-57-01, 8-906-802-66-88",
+                    "mail": "finance@ntspi.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/upravleniya/uumr/fu/"
+                },
+                {
+                    "name": "Управление воспитательной работы",
+                    "head": "Перминова Наталия Ивановна",
+                    "phone": "т. (3435) 25-55-01, 8-906-802-15-51",
+                    "mail": "prorectoruvr@mail.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/upravleniya/extracurricular_activities/"
+                },
+                {
+                    "name": "Административно-хозяйственный отдел",
+                    "head": "Шарипов Рашит Юсуфович",
+                    "phone": "т. (3435) 25-55-00, 8-906-802-15-55",
+                    "mail": "-",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/department/admitting_commission/aho/"
+                },
+                {
+                    "name": "Отдел кадров",
+                    "head": "Бунина Валентина Александровна",
+                    "phone": "т. (3435) 25-55-22, 8-906-804-55-52",
+                    "mail": "-",
+                    "site": "-"
+                },
+                {
+                    "name": "Отдел организации управленческой деятельности",
+                    "head": "Толстова Ирина Сергеевна",
+                    "phone": "(3435) 25-48-00, 8-906-806-61-16",
+                    "mail": "-",
+                    "site": "-"
+                },
+                {
+                    "name": "Приемная комиссия",
+                    "head": "Сизоненко Екатерина Владимировна",
+                    "phone": "(3435) 25-55-10, 8-906-802-55-59",
+                    "mail": "ntgspi@yandex.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/department/admitting_commission/"
+                },
+                {
+                    "name": "Отдел научно-исследовательской работы",
+                    "head": "Харитонова Елена Геннадьевна",
+                    "phone": "(3435) 25-55-01, 8-965-504-84-38",
+                    "mail": "onir_ntgspi@mail.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/department/scientific_section/"
+                },
+                {
+                    "name": "Отдел информационных ресурсов",
+                    "head": "Коновалова Валентина Ивановна",
+                    "phone": "8-906-807-16-61",
+                    "mail": "vikon@ntspi.ru",
+                    "site": "https://ntspi.ru/library/about_the_library/terms_of_use/folder/"
+                },
+                {
+                    "name": "Отдел информационно-технического обеспечения",
+                    "head": "Мифтахова Наталья Владимировна",
+                    "phone": "8-963-045-68-20",
+                    "mail": "ntgspi@outlook.com",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/department/information_and_computing_center/"
+                },
+                {
+                    "name": "Центр дополнительного образования",
+                    "head": "Гаврилова Оксана Юрьевна",
+                    "phone": "(3435)25-57-44, 8-906-804-99-66",
+                    "mail": "ntspi_cdpo@mail.ru",
+                    "site": "https://ntspi.ru/additional_education/"
+                },
+                {
+                    "name": "Центр тестирования и профессиональной ориентации",
+                    "head": "Лысуенко Светлана Анатольевна",
+                    "phone": "(3435) 25-48-33",
+                    "mail": "-",
+                    "site": "https://ntspi.ru/additional_education/centr/about/"
+                },
+                {
+                    "name": "Столовая",
+                    "head": "Курдян Владимир Акопович",
+                    "phone": "8-965-504-85-80",
+                    "mail": "-",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/department/shtab/stolovaya/"
+                },
+                {
+                    "name": "Штаб ГО и ЧС",
+                    "head": "Лихарева Ольга Борисовна",
+                    "phone": "8-903-082-99-93",
+                    "mail": "go@ntspi.ru",
+                    "site": "https://ntspi.ru/about_academy/the_structure_of_the_academy/department/shtab/"
+                }
+            ]
+        }
+    ],
+    "templates": [
+        {
+            "title": "Образцы заявлений для студентов ВО",
+            "docs": [
+                {
+                    "name": "образец заявления_о восставновлении для прохождения ГИА.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%93%D0%98%D0%90.pdf"
+                },
+                {
+                    "name": "образец заявления_о восстановлении для продолжения обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о выдаче дубликата студенческого билета или зачетной книжки.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D0%B4%D0%B0%D1%87%D0%B5%20%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B0%20%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%B7%D0%B0%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о выдаче справки о периоде обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D0%B4%D0%B0%D1%87%D0%B5%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8%20%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о выходе из академического отпуска.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0.pdf"
+                },
+                {
+                    "name": "образец заявления_о выходе из отпуска по беременности и родам.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D1%80%D0%BE%D0%B4%D0%B0%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о выходе из отпуска по уходу за ребенком.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%83%D1%85%D0%BE%D0%B4%D1%83%20%D0%B7%D0%B0%20%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о досрочной сдаче промежуточной аттестации.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%B6%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о досрочном выходе из академического отпуска.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0.pdf"
+                },
+                {
+                    "name": "образец заявления_о досрочном выходе из отпуска по уходу за ребенком.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%83%D1%85%D0%BE%D0%B4%D1%83%20%D0%B7%D0%B0%20%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о зачислении в порядке перевода из другой образовательной организации.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B7%D0%B0%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B2%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%B8%D0%B7%20%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о переводе на другую основную профессиональную образовательную программу.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5%20%D0%BD%D0%B0%20%D0%B4%D1%80%D1%83%D0%B3%D1%83%D1%8E%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%83%D1%8E%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%83.pdf"
+                },
+                {
+                    "name": "образец заявления_о переводе на индивидуальный учебный план ускоренного обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5%20%D0%BD%D0%B0%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о переводе на индивидуальный учебный план.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5%20%D0%BD%D0%B0%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD.pdf"
+                },
+                {
+                    "name": "образец заявления_о предоставлении академического отпуска.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0.pdf"
+                },
+                {
+                    "name": "образец заявления_о предоставлении отпуска по беременности и родам.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D1%80%D0%BE%D0%B4%D0%B0%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о предоставлении отпуска по уходу за ребенком.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%83%D1%85%D0%BE%D0%B4%D1%83%20%D0%B7%D0%B0%20%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о предосталении индивидивидуального графика обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о продлении срока сдачи промежуточной аттестации.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%20%D1%81%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%B6%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о смене фамилии или имени.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D1%81%D0%BC%D0%B5%D0%BD%D0%B5%20%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D0%B8%20%D0%B8%D0%BB%D0%B8%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_об отчислении в связи с переводом в другую образовательную организацию.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%20%D0%BE%D1%82%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B2%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D1%81%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC%20%D0%B2%20%D0%B4%D1%80%D1%83%D0%B3%D1%83%D1%8E%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E.pdf"
+                },
+                {
+                    "name": "образец заявления_об отчислении по инициативе обучающегося.pdf",
+                    "link": "https://www.ntspi.ru/student/files/vpo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%20%D0%BE%D1%82%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BF%D0%BE%20%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%D1%81%D1%8F.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Образцы заявлений для студентов СПО",
+            "docs": [
+                {
+                    "name": "образец заявления_о восставновлении для прохождения ГИА.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%93%D0%98%D0%90.pdf"
+                },
+                {
+                    "name": "образец заявления_о восстановлении для продолжения обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о выдаче дубликата студенческого билета или зачетной книжки.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D0%B4%D0%B0%D1%87%D0%B5%20%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B0%20%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%B0%20%D0%B8%D0%BB%D0%B8%20%D0%B7%D0%B0%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о выдаче справки о периоде обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D0%B4%D0%B0%D1%87%D0%B5%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8%20%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о выходе из академического отпуска.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0.pdf"
+                },
+                {
+                    "name": "образец заявления_о выходе из отпуска по беременности и родам.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D1%80%D0%BE%D0%B4%D0%B0%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о выходе из отпуска по уходу за ребенком.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%83%D1%85%D0%BE%D0%B4%D1%83%20%D0%B7%D0%B0%20%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о досрочной сдаче промежуточной аттестации.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%B6%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о досрочном выходе из академического отпуска.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0.pdf"
+                },
+                {
+                    "name": "образец заявления_о досрочном выходе из отпуска по уходу за ребенком.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D0%B5%20%D0%B8%D0%B7%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%83%D1%85%D0%BE%D0%B4%D1%83%20%D0%B7%D0%B0%20%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о зачислении в порядке перевода из другой образовательной организации.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%B7%D0%B0%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B2%20%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%B8%D0%B7%20%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о переводе на другую образовательную программу.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5%20%D0%BD%D0%B0%20%D0%B4%D1%80%D1%83%D0%B3%D1%83%D1%8E%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%83.pdf"
+                },
+                {
+                    "name": "образец заявления_о переводе на индивидуальный учебный план ускоренного обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5%20%D0%BD%D0%B0%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о переводе на индивидуальный учебный план.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5%20%D0%BD%D0%B0%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD.pdf"
+                },
+                {
+                    "name": "образец заявления_о предоставлении академического отпуска.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0.pdf"
+                },
+                {
+                    "name": "образец заявления_о предоставлении отпуска по беременности и родам.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D1%80%D0%BE%D0%B4%D0%B0%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о предоставлении отпуска по уходу за ребенком.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%83%D1%85%D0%BE%D0%B4%D1%83%20%D0%B7%D0%B0%20%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%D0%BC.pdf"
+                },
+                {
+                    "name": "образец заявления_о предосталении индивидивидуального графика обучения.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.pdf"
+                },
+                {
+                    "name": "образец заявления_о продлении срока сдачи промежуточной аттестации.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D1%80%D0%BE%D0%BA%D0%B0%20%D1%81%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%B6%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_о смене фамилии или имени.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%20%D1%81%D0%BC%D0%B5%D0%BD%D0%B5%20%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D0%B8%20%D0%B8%D0%BB%D0%B8%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.pdf"
+                },
+                {
+                    "name": "образец заявления_об отчислении в связи с переводом в другую образовательную организацию.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%20%D0%BE%D1%82%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B2%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D1%81%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC%20%D0%B2%20%D0%B4%D1%80%D1%83%D0%B3%D1%83%D1%8E%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E.pdf"
+                },
+                {
+                    "name": "образец заявления_об отчислении по инициативе обучающегося.pdf",
+                    "link": "https://www.ntspi.ru/student/files/spo/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B5%D1%86%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%20%D0%BE%D1%82%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BF%D0%BE%20%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%D1%81%D1%8F.pdf"
+                }
+            ]
+        }
+    ]
+}

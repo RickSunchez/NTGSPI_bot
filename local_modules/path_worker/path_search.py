@@ -1,4 +1,5 @@
 import json
+from local_modules.vars.project_config import MAP_FILE, MAP_LEGEND
 
 class pathSearcher:
     def __init__(self, matrix=None, graph=None, file=None, titles=False, legend=None):
@@ -9,6 +10,10 @@ class pathSearcher:
 
         self.entry = 0
         self.dest = 0
+
+        file = MAP_FILE # DEV
+        self.legendFromFile(MAP_LEGEND) # DEV
+        titles=True # DEV
         
         if file is not None:
             try:
@@ -93,14 +98,13 @@ class pathSearcher:
             return "Legend is not uploaded"
 
         message = []
-
+    
         i = 0
         while i < len(path):
             p = path[i]
 
             if "e" in self.legend[str(p)]:
                 r = self.__parseE(self.legend[str(p)])
-
                 for key in r:
                     if r[key] == str(path[i+1]):
                         message.append(key)
@@ -131,13 +135,5 @@ class pathSearcher:
                     yield path + [next]
                 else:
                     stack.append((next, path + [next]))
-
-ps = pathSearcher(file="data/map.csv", titles=True)
-ps.legendFromFile("data/map_titles.json")
-
-print(ps.legend)
-
-print(ps.minPath(0, 18))
-print(ps.getPathLegend(ps.minPath(0, 18)))
 
 

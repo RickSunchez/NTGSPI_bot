@@ -4,9 +4,11 @@ import os
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 
-class NTGSPIparser:
+from local_modules.vars.project_config import SITE_CACHE
+
+class Parser:
     def __init__(self):
-        self.cache = "./NTGSPI_cache.json"
+        self.cache = SITE_CACHE
 
     def sync(self):
         data = {}
@@ -40,6 +42,19 @@ class NTGSPIparser:
 
         return names
 
+    def getGroupShedule(self, group:str, real:bool=False) -> str:
+        data = self.shedule(real)
+
+        if "/" in group:
+            pass
+        else:
+            for f in data:
+                for s in f["shedule"]:
+                    if s["group"] == group:
+                        return s["link"]
+
+        return ""
+
     def getContactsDepartment(self, real=False):
         data = self.numbers(real)
 
@@ -57,6 +72,13 @@ class NTGSPIparser:
             titles.append(d["title"])
 
         return titles
+
+    def getTemplateList(self, template_name:str, real:bool=False) -> list:
+        for t in self.templates():
+            if t["title"] == template_name:
+                return t["docs"]
+
+        return []
 
 
     def shedule(self, real=False):
@@ -106,11 +128,21 @@ class NTGSPIparser:
 
             for j, td in enumerate(tr.find_all("td")):
                 elemA = td.find_all("a")
-
+                
                 for a in elemA:
+                    if len(a.text.strip()) == 0: continue
+                    href = a["href"]
+                    link = ""
+
+                    if "?" in href: 
+                        q = href.index("?")
+                        link = base + quote(href[:q]) + href[q:]
+                    else:
+                        link = base + quote(href)
+   
                     shedule[j]["shedule"].append({
                         "group": a.text.strip(),
-                        "link": quote(base + a["href"])
+                        "link": link
                     })
 
         return shedule
@@ -182,7 +214,8 @@ class NTGSPIparser:
                     "head": td[2].text.strip(),
                     "phone": td[8].text.strip(),
                     "mail": td[6].text.strip(),
-                    "site": quote(site),
+                    # "site": quote(site),
+                    "site": site
                 })
 
         return numbers

@@ -2,3 +2,7 @@ kod.txt
 __pycache__
 ntspi_bot
 credentials.json
+*.db
+.DS_Store
+origins
+test*

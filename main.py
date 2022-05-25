@@ -1,232 +1,163 @@
-import telebot
 import json
+from typing import Tuple, Union
+from telebot import TeleBot, types
+from local_modules.path_worker.path_search import pathSearcher
+from local_modules.site_parser.NTGSPIparser import Parser
 
-from telebot import types
+from local_modules.vars.project_config import *
+from local_modules.database_handler import dbHandler, router
 
-from parse import NTGSPIparser
-from map_worker import pathSearcher
-from simple_router import Router
+# TODO:
+# - add user create
 
-try:
-    with open("./credentials.json", "r") as f:
-        cred = json.load(f)
-except Exception as ex:
-    print(ex)
-    exit()
+def pp(o): print(json.dumps(o, indent=4, sort_keys=True, default=lambda o: o.__dict__))
 
-bot = telebot.TeleBot(cred["telegram"]["token"])
-np = NTGSPIparser()
-ps = pathSearcher(file="map.csv", titles=True)
-ps.legendFromFile("map_titles.json")
-router = Router()
+with open(TELEGRAM_CRED, "r") as f:
+    cred = json.load(f)
 
-np.sync()
+dbh = dbHandler.DBhandler(LOCAL_DATABASE, False)
+r = router.Router(LOCAL_DATABASE)
+bot = TeleBot(cred["telegram"]["token"])
+np = Parser()
 
-def atStart(chatID):
-    kb = types.ReplyKeyboardMarkup()
-    text = ["Показать расписание", "Контакты для связи", "Шаблоны документов", "Навигация"]
+# np.sync()
 
-    for t in text:
-        kb.add(types.KeyboardButton(text=t))
+bot.set_my_commands([
+    types.BotCommand("/start", "Стоит начать с этой команды")
+])
 
-    bot.send_message(chatID, text="Что-то делать:", reply_markup=kb)
-def showFacultet(chatID):
-    kb = types.ReplyKeyboardMarkup()
-    for name in np.getFacultetList():
-        kb.add(types.KeyboardButton(text=name))
+def workerPath(text:str, chat_id:int, user_id:int, message_id:Union[int, None]=None, serve:str="s", wai:object={}) -> None:
+    kb = types.InlineKeyboardMarkup(row_width=5)
+    answerText = wai["point"]["message"]
+    onEdit = message_id is not None
+
+    savedRowNum = 0
+    savedRow = []
+    serveAccords = {
+        "s": "Выберите номер кабинета, который ближе всего к вам:",
+        "d": "Выберите номер кабинета, который вам необходим:"
+    }
+
+    for key in wai["childs"]:
+        child = wai["childs"][key]
+
+        typeData = child["type"].split("?")
+
+        if typeData[0] == "callback":
+            kb.add(types.InlineKeyboardButton(
+                    child["title"], callback_data=key))
+        elif typeData[0] == "link":
+            kb.add(
+                types.InlineKeyboardButton(
+                    child["title"], url=child["data"]))
+        elif typeData[0] == "message":
+            answerText = child["data"]
+            onEdit = True
+        elif typeData[0] == "grid":
+            answerText = serveAccords[serve]
+            
+            typeGridData = typeData[1].split("&")
+            grid = {}
+            for tgd in typeGridData:
+                tmp = tgd.split("=")
+                grid[tmp[0]] = int(tmp[1])
+
+            if savedRowNum == grid["row"]:
+                savedRow.append(types.InlineKeyboardButton(
+                    child["title"], 
+                    callback_data=("%s%d" % (serve, grid["map"]))))
+            else:
+                savedRowNum = grid["row"]
+                kb.add(*savedRow)
+                savedRow = [
+                    types.InlineKeyboardButton(
+                        child["title"], 
+                        callback_data=("%s%d" % (serve, grid["map"])))]
+
+    return kb, answerText, onEdit
+
+def workerService(text:str, chat_id:int, user_id:int, message_id:Union[int, None]=None, serve:str="s", wai:object={}) -> None:
+    kb = types.InlineKeyboardMarkup(row_width=5)
+    answerText = "none"
+
+    if wai["action"] == "calcPath":
+        us = dbh.getUserStorage(user_id)
+        ps = pathSearcher()
+
+        answerText = ps.getPathLegend(
+            ps.minPath(us["source"], us["destination"])
+        )
+
+    return kb, answerText, True
+
+def worker(text:str, chat_id:int, user_id:int, message_id:Union[int, None]=None, serve:str="s") -> None:
+    kb = []
+
+    dbh.addNewUser(user_id) # MOVE
+    wai = r.pwd(user_id)
+
+    if wai["type"] == "service":
+        kb, answerText, onEdit = workerService(text, chat_id, user_id, message_id, serve, wai)
+    elif wai["type"] == "path":
+        kb, answerText, onEdit = workerPath(text, chat_id, user_id, message_id, serve, wai)
+
+
+    if wai["type"] == "service" or wai["point"]["title"] != "root":
+        kb.add(types.InlineKeyboardButton("Назад", callback_data="back"))
+    if len(wai["full_path"].split("/")) > 2:
+        kb.add(types.InlineKeyboardButton("Основное меню", callback_data="root"))
     
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    bot.send_message(chatID, text="Выбрать факультет", reply_markup=kb)
-
-def showGroups(chatID, facultet):
-    kb = types.ReplyKeyboardMarkup()
-    for f in np.getFacultetGroups(facultet):
-        kb.add(types.KeyboardButton(text=f))
-
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    bot.send_message(chatID, text="Выбрать группу", reply_markup=kb)
-
-def sendShedule(chatID, group):
-    print(group)
-    l = ""
-    for f in np.shedule():
-        if f["facultet"] == router.whereAmI():
-            for s in f["shedule"]:
-                if s["group"] == group:
-                    l = s["link"]
-            break
-
-    kb = types.InlineKeyboardMarkup()
-    kb.add(types.InlineKeyboardButton(group, url=l))
-    
-    bot.send_message(chatID, text="Вот твое расписание:", reply_markup=kb)
-
-def showDepartment(chatID):
-    kb = types.ReplyKeyboardMarkup()
-    for t in np.getContactsDepartment():
-        kb.add(types.KeyboardButton(text=t))
-
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    bot.send_message(chatID, text="Выберите отдел:", reply_markup=kb)
-
-def sendContacts(chatID, department):
-    kb = types.ReplyKeyboardMarkup()
-    for t in np.getContactsDepartment():
-        kb.add(types.KeyboardButton(text=t))
-
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    messages = []
-    for n in np.numbers():
-        if n["title"] == department:
-            for s in n["subs"]:
-                msg  = "Отдел: %s\n" % s["name"]
-                msg += "Ответственный: %s\n" % s["head"]
-                msg += "Телефон: %s\n" % s["phone"]
-                msg += "email: %s\n" % s["mail"]
-                msg += "сайт: %s\n" % s["site"]
-
-                messages.append(msg)
-            break
-
-    bot.send_message(chatID, text="\n\n".join(messages), reply_markup=kb)
-
-def showTemplates(chatID):
-    kb = types.ReplyKeyboardMarkup()
-
-    for t in np.getTemplatesTitles():
-        kb.add(types.KeyboardButton(text=t))
-
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    bot.send_message(chatID, text="Тип шаблонов", reply_markup=kb)
-
-def showTemplatesList(chatID, tt):
-    messages = []
-
-    for temp in np.templates():
-        if temp["title"] == tt:
-            for i, doc in enumerate(temp["docs"]):
-                if i % 10 == 0: messages.append(types.InlineKeyboardMarkup())
-
-                n = doc["name"].replace("образец заявления_", "")
-                messages[i // 10].add(types.InlineKeyboardButton(n, url=doc["link"]))
-            break
-    
-    bot.send_message(chatID, text="Доступные шаблоны")
-    for i, kb in enumerate(messages):
-        bot.send_message(chatID, text="Страница: %d" % (i+1), reply_markup=kb)
-
-def showEntryPoints(chatID):
-    kb = types.ReplyKeyboardMarkup()
-
-    for key in ps.legend:
-        if "e" in ps.legend[key]: continue
-
-        kb.add(types.KeyboardButton(text=ps.legend[key]))
-
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    bot.send_message(chatID, text="Выберите ближайший от вас кабинет:", reply_markup=kb)
-
-def showDestinationPoints(chatID, entryPoint):
-    kb = types.ReplyKeyboardMarkup()
-    
-    for key in ps.legend:
-        if "e" in ps.legend[key]: continue
-        if ps.legend[key] == entryPoint:
-            ps.entry = int(key)
-            continue
-
-        kb.add(types.KeyboardButton(text=ps.legend[key]))
-
-    kb.add(types.KeyboardButton(text="Назад"))
-
-    bot.send_message(chatID, text="Выберите куда вам надо:", reply_markup=kb)
-
-def sendRoute(chatID, destPoint):
-    for key in ps.legend:
-        if ps.legend[key] == destPoint:
-            ps.dest = int(key)
-            break
-    
-    kb = types.ReplyKeyboardMarkup()
-    kb.add(types.KeyboardButton(text="Новый поиск"))
-
-    bot.send_message(chatID, text=ps.calc(), reply_markup=kb)
+    if onEdit:
+        bot.edit_message_text(
+            text=answerText, 
+            chat_id=chat_id, 
+            message_id=message_id,
+            reply_markup=kb
+        )
+    else:
+        bot.send_message(
+            text=answerText,
+            chat_id=chat_id,
+            reply_markup=kb)
 
 @bot.message_handler(content_types=["text"])
-def handle(message):
-    if message.text.lower() == "/start":
-        pass
-    # Расписание:
-    elif message.text == "Показать расписание":
-        router.moveTo("shedule")
-    elif message.text in np.getFacultetList():
-        router.moveTo(message.text)
-    elif message.text in np.getFacultetGroups(router.whereAmI()):
-        router.lock(message.text)
-    # Контакты:
-    elif message.text == "Контакты для связи":
-        router.moveTo("contacts")
-    elif message.text in np.getContactsDepartment():
-        router.lock(message.text)
-    # Шаблоны
-    elif message.text == "Шаблоны документов":
-        router.moveTo("templates")
-    elif message.text in np.getTemplatesTitles():
-        router.lock(message.text)
-    # Навигация
-    elif message.text == "Навигация":
-        router.moveTo("navigation")
-    elif router.whereAmI() == "navigation" and message.text.isdigit():
-        router.moveTo("entry")
-    elif router.whereAmI() == "entry" and message.text.isdigit():
-        router.lock(message.text)
-    elif message.text == "Новый поиск":
-        router.back()
-    # Общее
-    elif message.text == "Назад":
-        router.back()
+def messageHandle(message):
+    userId = int(message.from_user.id)
+    chatId = int(message.chat.id)
+    text = message.text.lower()
+
+    worker(text, chatId, userId)
+    
+
+@bot.callback_query_handler(func=lambda call: True)
+def callbackHandle(callback):
+    userId = int(callback.from_user.id)
+    chatId = int(callback.message.chat.id)
+    messageId = int(callback.message.id)
+
+    dbh.addNewUser(userId) # DEL
+
+    onNav = True
+
+    if "back" in callback.data:
+        r.back(userId)
+    elif "root" in callback.data:
+        r.home(userId)
+    elif "s" in callback.data:
+        onNav = False
+        pointId = int(callback.data.replace("s", ""))
+        r.touch(userId, data={"source": pointId})
+        serve = "d"
+    elif "d" in callback.data:
+        pointId = int(callback.data.replace("d", ""))
+        r.touch(userId, data={"destination": pointId})
+        r.cd(userId, 9999)
+    elif callback.data.isdigit():
+        r.cd(userId, int(callback.data))
+    
+    if onNav:
+        worker(text="", chat_id=chatId, user_id=userId, message_id=messageId)
     else:
-        bot.send_message(message.chat.id, text="Неизвестная команда")
-        return
-
-    wai = router.whereAmI()
-    isLocked = not router.status
-
-    if wai == "root":
-        atStart(message.chat.id)
-    # Расписание:
-    elif wai == "shedule":
-        showFacultet(message.chat.id)
-    elif (not isLocked) and (wai in np.getFacultetList()):
-        showGroups(message.chat.id, wai)
-    elif isLocked and (router.data in np.getFacultetGroups(wai)):
-        sendShedule(message.chat.id, router.data)
-        router.unlock()
-    # Контакты:
-    elif (not isLocked) and (wai == "contacts"):
-        showDepartment(message.chat.id)
-    elif isLocked and (wai == "contacts"):
-        sendContacts(message.chat.id, router.data)
-        router.unlock()
-    # Шаблоны:
-    elif (not isLocked) and (wai == "templates"):
-        showTemplates(message.chat.id)
-    elif isLocked and (wai == "templates"):
-        showTemplatesList(message.chat.id, router.data)
-        router.unlock()
-    # Навигация
-    elif wai == "navigation":
-        showEntryPoints(message.chat.id)
-    elif (not isLocked) and (wai == "entry"):
-        showDestinationPoints(message.chat.id, message.text)
-    elif isLocked and (wai == "entry"):
-        sendRoute(message.chat.id, router.data)
-        router.unlock()
+        worker(text="", chat_id=chatId, user_id=userId, message_id=messageId, serve=serve)
 
 bot.polling()
