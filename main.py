@@ -15,7 +15,7 @@ def pp(o): print(json.dumps(o, indent=4, sort_keys=True, default=lambda o: o.__d
 with open(TELEGRAM_CRED, "r") as f:
     cred = json.load(f)
 
-dbh = dbHandler.DBhandler(LOCAL_DATABASE, False)
+dbh = dbHandler.DBhandler(LOCAL_DATABASE, True)
 r = router.Router(LOCAL_DATABASE)
 bot = TeleBot(cred["telegram"]["token"])
 np = Parser()
